@@ -27,5 +27,5 @@
 
 
 - 👀 I’m interested in development of programs and electronics
-- 🌱 I’m currently learning Python, C++, CSS , HTML, Javascript and arduino. 
+- 🌱 I’m currently learning Python, C++, CSS , HTML, Javascript,Arduino and LTspice. 
 

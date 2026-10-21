@@ -23,7 +23,8 @@ Making complex engineering simple, one visual at a time.
 <!-- EPISODES:START -->
 | # | Topic |
 |---|---|
-| next | Pass transistors & the transmission gate *(coming soon)* |
+| next | Why isn't a current mirror a perfect copy? *(coming soon)* |
+| 8 | [Pass Transistors & the Transmission Gate](https://www.linkedin.com/feed/update/urn:li:activity:7513313194212216832/) |
 | 7 | [The CMOS Inverter](https://www.linkedin.com/feed/update/urn:li:activity:7512717959061020672/) |
 | 6 | [Understanding MOSFET Operating Regions](https://www.linkedin.com/feed/update/urn:li:activity:7511650862704873472/) |
 | 1–5 | [PDK, Sand to IC, FEOL/MOL/BEOL, Moore's Law, the MOSFET](https://www.linkedin.com/in/andres-harding-abb258199/recent-activity/all/) |

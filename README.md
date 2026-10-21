@@ -2,7 +2,7 @@
 
 # Hi, I'm Andrés Harding
 
-**Analog IC design engineer · Costa Rica**
+**Analog IC design engineer · Costa Rica**<br>
 Making complex engineering simple, one visual at a time.
 
 [![Website](https://img.shields.io/badge/Website-0B1220?style=for-the-badge&logo=githubpages&logoColor=22D3EE)](https://jessehardingmurillo.github.io/)

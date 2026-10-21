@@ -20,12 +20,14 @@ Making complex engineering simple, one visual at a time.
 - I like turning theory into things you can simulate: SPICE, Python and open-source PDKs.
 
 ### 🔬 Silicon Art
+<!-- EPISODES:START -->
 | # | Topic |
 |---|---|
-| 8 | Why isn't a current mirror a perfect copy? *(coming soon)* |
-| 7 | The CMOS inverter |
-| 6 | Understanding MOSFET operating regions |
-| 1–5 | PDKs, sand to IC, FEOL/MOL/BEOL, Moore's Law, the MOSFET |
+| next | Pass transistors & the transmission gate *(coming soon)* |
+| 7 | [The CMOS Inverter](https://www.linkedin.com/feed/update/urn:li:activity:7512717959061020672/) |
+| 6 | [Understanding MOSFET Operating Regions](https://www.linkedin.com/feed/update/urn:li:activity:7511650862704873472/) |
+| 1–5 | [PDK, Sand to IC, FEOL/MOL/BEOL, Moore's Law, the MOSFET](https://www.linkedin.com/in/andres-harding-abb258199/recent-activity/all/) |
+<!-- EPISODES:END -->
 
 All episodes and links: **[jessehardingmurillo.github.io](https://jessehardingmurillo.github.io/)**
 
